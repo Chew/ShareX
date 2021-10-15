@@ -31,7 +31,6 @@ using System;
 using System.Drawing;
 using System.IO;
 using System.Threading.Tasks;
-using System.Web;
 using System.Windows.Forms;
 
 namespace ShareX

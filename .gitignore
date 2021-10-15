@@ -331,3 +331,5 @@ ASALocalRun/
 # ShareX
 Output/
 APIKeysLocal.cs
+ 
+.DS_Store
